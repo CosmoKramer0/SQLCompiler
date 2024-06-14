@@ -1,0 +1,3 @@
+Scan (employees)
+	Filter (WHERE salary > 50000)
+		Project (employee_id,, employee_name)

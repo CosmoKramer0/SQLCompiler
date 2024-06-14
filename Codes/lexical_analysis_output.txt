@@ -1,0 +1,11 @@
+Token Type: 0, Value: SELECT
+Token Type: 1, Value: employee_id
+Token Type: 3, Value: ,
+Token Type: 1, Value: employee_name
+Token Type: 0, Value: FROM
+Token Type: 1, Value: employees
+Token Type: 0, Value: WHERE
+Token Type: 1, Value: salary
+Token Type: 3, Value: >
+Token Type: 2, Value: 50000
+Token Type: 3, Value: ;
