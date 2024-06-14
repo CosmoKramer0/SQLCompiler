@@ -33,7 +33,7 @@ The Lexical Analyzer tokenizes the SQL query present in `Query.txt`.
 
 ### 2. Syntax Analysis
 
-The Syntax Analyzer validates the syntax of the SQL query present in Query.txt.
+The Syntax Analyzer validates the syntax of the SQL query present in `Query.txt`.
 
 **Compile and run the Syntax Analyzer:**
 ```bash
